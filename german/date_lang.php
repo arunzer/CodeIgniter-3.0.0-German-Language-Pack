@@ -52,6 +52,8 @@ $lang['date_minutes'] = 'Minuten';
 $lang['date_second'] = 'Sekunde';
 $lang['date_seconds'] = 'Sekunden';
 
+// we intentionally did not translate the time zones for it seemed unnecessary
+
 $lang['UM12'] = '(UTC -12:00) Baker/Howland Island';
 $lang['UM11'] = '(UTC -11:00) Samoa Time Zone, Niue';
 $lang['UM10'] = '(UTC -10:00) Hawaii-Aleutian Standard Time, Cook Islands, Tahiti';
